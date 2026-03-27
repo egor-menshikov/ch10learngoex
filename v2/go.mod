@@ -1,4 +1,4 @@
-module github.com/egor-menshikov/ch10learngoex
+module github.com/egor-menshikov/ch10learngoex/v2
 
 go 1.26.1
 
